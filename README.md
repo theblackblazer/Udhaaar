@@ -1,3 +1,2 @@
 # Udhaaar
-A Budget based web app made using JavaScript.
-
+A web application to take small personal loans.
